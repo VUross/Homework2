@@ -1,0 +1,24 @@
+h1 {
+    color:#00ee00;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+}
+
+.needs{
+	color: olive;
+	font-size: 15px;
+	text-align: center;
+}
+
+.recept{
+	color: green;
+    font-size: 20px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.span{
+	font-family: courier;
+	font-size: 13px;
+	color: green;
+}

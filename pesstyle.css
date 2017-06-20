@@ -1,0 +1,32 @@
+h1 {
+    color: olive;
+    font-size: 60px;
+    text-align: center;
+}
+
+.osencenje {
+    background-color: white;
+}
+
+.prvastrofa{
+	font-size: 30px;
+	color:blue;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+.drugastrofa {	
+	font-size: 20px;
+	color: red;
+	font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.uvecana {
+	text-transform: uppercase;
+}
+
+#Slika {
+	width: 10%;
+	height: 10%;
+}
